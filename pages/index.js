@@ -11,6 +11,7 @@ export default function Home() {
         <meta name="description" content="Site food ordering app with react/next js" />
         <title>Food Ordering App</title>
       </Head>
+      <p>Test</p>
       <Featured/>
       <PizzaList/>
     </div>
